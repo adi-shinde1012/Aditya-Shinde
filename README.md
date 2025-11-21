@@ -16,7 +16,7 @@ AI/ML: OpenCV, NumPy, TensorFlow,Regression model.
 Tools: Git, GitHub, VS Code
 
 🛠 Projects that Excite Me
-
+Design and Development of Smart Interactive toy using makey makey board/ ESP32 (OpenCV, Scratch, Python)
 
 
  Face & Attendance Detection – Real-time recognition + tracking (TensorFlow, OpenCV)
