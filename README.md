@@ -21,9 +21,9 @@ Tools: Git, GitHub, VS Code
  
  Face & Attendance Detection – Real-time recognition + tracking (TensorFlow, OpenCV)
 
+ Design and Development of virtual Assistant using python and python library 
 
-
-
+Design and Development of Diabetes Prediction using python, Linear Regression, Numpy, Pandas and other python library  
 
 
 
