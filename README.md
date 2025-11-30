@@ -13,7 +13,7 @@ Web Dev: HTML,CSS.
 
 AI/ML: OpenCV, NumPy, TensorFlow,Regression model.
 
-Tools: Git, GitHub, VS Code
+Tools: Git, GitHub, VS Code,Cursor .
 
 🛠 Projects that Excite Me
  
@@ -23,7 +23,9 @@ Tools: Git, GitHub, VS Code
 
  Design and Development of virtual Assistant using python and python library 
 
-Design and Development of Diabetes Prediction using python, Linear Regression, Numpy, Pandas and other python library  
+ Design and Development of Diabetes Prediction using python, Linear Regression, Numpy, Pandas and other python library 
+
+ Design and Development of Bitcoin prediction model using python,numpy,pandas , matplotlib, .
 
 
 
